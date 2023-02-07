@@ -1,0 +1,201 @@
+GameID,Name,Platform,Year_of_Release,Genre,Publisher,Critic_Score,Critic_Count,User_Score,User_Count,Developer,Rating
+G1,Ragnarok Odyssey,PSV,2012,Role-Playing,GungHo,66,21,7.8,111,Game Arts,T
+G2,Mat Hoffman's Pro BMX 2,XB,2002,Sports,Activision,75,16,tbd,,Rainbow Studios,T
+G3,Warriors of Might and Magic,PS2,2001,Adventure,3DO,49,12,4.5,6,3DO,T
+G4,Dawn of Discovery,PC,2009,Simulation,Ubisoft,82,32,8.8,132,"Blue Byte, Related Designs",T
+G5,MLB SlugFest 2006,PS2,2006,Sports,Midway Games,56,11,7.5,10,Blue Shift,E10+
+G6,Blood Bowl,X360,2009,Sports,Focus Home Interactive,61,28,5.1,19,Cyanide,T
+G7,Dead Rising 2,X360,2010,Action,Capcom,79,76,6.9,216,Blue Castle Games,M
+G8,Blazing Angels 2: Secret Missions of WWII,PS3,2007,Simulation,Ubisoft,70,10,7.2,12,Ubisoft Romania,T
+G9,Assassin's Creed III,PC,2012,Action,Ubisoft,80,21,6.2,1489,Ubisoft,M
+G10,Street Hoops,XB,2002,Sports,Activision,58,22,8,4,Black Ops Entertainment,T
+G11,Curious George,GBA,2006,Action,Namco Bandai Games,65,5,tbd,,Torus Games,E
+G12,Tom Clancy's Ghost Recon Advanced Warfighter 2,PS3,2007,Shooter,Ubisoft,84,29,8.1,41,"Red Storm Entertainment, Ubisoft Paris",T
+G13,Pinball Hall of Fame: The Williams Collection,Wii,2008,Misc,System 3 Arcade Software,82,16,8.8,36,Farsight Studios,E10+
+G14,ESPN NBA Basketball,PS2,2003,Sports,Sega,89,18,8.4,38,Visual Concepts,E
+G15,Final Fight One,GBA,2001,Fighting,Ubisoft,82,16,7.8,8,Sun-Tec,E
+G16,SOCOM 4: U.S. Navy SEALs,PS3,2011,Shooter,Sony Computer Entertainment,67,64,6.3,121,Zipper Interactive,M
+G17,Let's TAP,Wii,2008,Misc,Sega,70,47,6.6,11,Prope,E
+G18,Medieval Moves: Deadmund's Quest,PS3,2011,Action,Sony Computer Entertainment,61,41,6.5,17,Zindagi Games,E10+
+G19,Captain America: Super Soldier,PS3,2011,Action,Sega,61,34,7.3,40,Next Level Games,T
+G20,Romance of the Three Kingdoms VII,PS2,2000,Strategy,Tecmo Koei,72,10,8.7,11,Koei,E
+G21,Pirates of the Caribbean: Dead Man's Chest,DS,2006,Adventure,Disney Interactive Studios,63,11,8.6,7,Amaze Entertainment,T
+G22,SSX On Tour,PSP,2005,Sports,Electronic Arts,79,23,8.1,44,EA Montreal,E
+G23,Indianapolis 500 Legends,Wii,2007,Racing,Destineer,47,10,6.7,7,Torus Games,E
+G24,Call of Duty: World at War,PC,2008,Shooter,Activision,83,36,7.5,721,Treyarch,M
+G25,Sniper Elite V2,PS3,2012,Shooter,505 Games,70,21,6.9,92,Rebellion,M
+G26,Pac-Man Fever,PS2,2001,Misc,Sony Computer Entertainment,47,14,6.3,7,Mass Media,E
+G27,Tomb Raider: Legend,PSP,2006,Action,Eidos Interactive,67,28,7.9,30,Buzz Monkey,T
+G28,Tribes: Aerial Assault,PS2,N/A,Shooter,Unknown,73,23,8.8,47,Midway Studios - Austin,T
+G29,LEGO Star Wars III: The Clone Wars,3DS,2011,Action,LucasArts,67,25,6.1,31,Traveller's Tales,E10+
+G30,Broken Sword: Shadow of the Templars - The Director's Cut,Wii,2009,Adventure,Ubisoft,74,29,8.1,14,Revolution Software,T
+G31,SingStar Vol. 2,PS3,2008,Misc,Sony Computer Entertainment,76,36,tbd,,SCEE London Studio,T
+G32,Dragon Ball Z: Infinite World,PS2,2008,Fighting,Namco Bandai Games,48,17,7.9,37,Dimps Corporation,T
+G33,Devil May Cry 3: Dante's Awakening,PS2,2005,Action,Capcom,84,60,9,212,Capcom,M
+G34,Call of Duty: Advanced Warfare,PS4,2014,Shooter,Activision,83,39,5.7,1443,Sledgehammer Games,M
+G35,Kill.Switch,XB,2003,Shooter,Namco Bandai Games,75,26,8,7,Namco,T
+G36,Ghostbusters: The Video Game,PS2,2009,Action,Atari,64,9,8.7,6,War Drum Studios,E10+
+G37,Rango: The Video Game,PS3,2011,Action,Electronic Arts,65,23,6.4,7,Behaviour Interactive,E10+
+G38,Street Fighter V,PS4,2016,Fighting,Capcom,77,80,3.4,1221,Capcom,T
+G39,Space Invaders Extreme,DS,2008,Shooter,Square Enix,85,41,7.6,16,Taito Corporation,E
+G40,Onechanbara: Bikini Samurai Squad,X360,2006,Action,D3Publisher,39,39,6.4,55,Tamsoft,M
+G41,Major League Baseball 2K10,X360,2010,Sports,Take-Two Interactive,76,26,7.6,38,Visual Concepts,E
+G42,RPG Maker,PS,1997,Role-Playing,ASCII Entertainment,66,11,8.2,9,Kuusou Kagaku,E
+G43,Spider-Man 3,X360,2007,Platform,Activision,63,61,7,53,Treyarch,T
+G44,Theme Park Roller Coaster,PS2,2000,Strategy,Electronic Arts,82,11,7.9,17,Bullfrog Productions,E
+G45,SAW,X360,2009,Action,Konami Digital Entertainment,59,39,7.4,50,Zombie Studios,M
+G46,Madagascar,PS2,2005,Platform,Activision,69,25,7.4,25,Toys for Bob,E10+
+G47,Food Network: Cook or Be Cooked,Wii,2009,Misc,Namco Bandai Games,53,8,6.8,5,Red Fly Studio,E
+G48,Quantum Redshift,XB,2002,Racing,Microsoft Game Studios,70,21,8.1,15,Curly Monsters,T
+G49,Kelly Slater's Pro Surfer,PS2,2002,Sports,Activision,77,19,8.4,15,Treyarch,E
+G50,The Chronicles of Narnia: Prince Caspian,X360,2008,Action,Disney Interactive Studios,56,24,7.5,13,Traveller's Tales,T
+G51,Elite Beat Agents,DS,2006,Misc,Nintendo,87,51,8.6,105,iNiS,E10+
+G52,LEGO Jurassic World,WiiU,2015,Action,Warner Bros. Interactive Entertainment,71,5,8.1,14,TT Games,E10+
+G53,LEGO Pirates of the Caribbean: The Video Game,PS3,2011,Action,Disney Interactive Studios,73,42,7.1,34,Traveller's Tales,E10+
+G54,LEGO Batman: The Videogame,DS,2008,Action,Warner Bros. Interactive Entertainment,72,16,8,16,TT Fusion,E10+
+G55,Teenage Mutant Ninja Turtles,GBA,2003,Action,Unknown,71,16,8.8,8,Konami,E
+G56,NCAA GameBreaker 2003,PS2,2002,Sports,Sony Computer Entertainment,53,19,tbd,,989 Sports,E
+G57,Rise of Nightmares,X360,2011,Action,Sega,54,56,7.8,44,Sega,M
+G58,Obscure: The Aftermath,Wii,2008,Action,Playlogic Game Factory,53,19,8.1,14,Hydravision,M
+G59,Gravity Rush Remastered,PS4,2015,Action,Sony Computer Entertainment,80,62,8.2,153,Bluepoint Games,T
+G60,Fracture,X360,2008,Shooter,LucasArts,63,60,6.2,45,Day 1 Studios,T
+G61,College Hoops 2K8,PS2,2007,Sports,Take-Two Interactive,66,4,tbd,,Visual Concepts,E
+G62,MX Unleashed,PS2,2004,Racing,THQ,80,18,9.2,46,Rainbow Studios,E
+G63,Sengoku Basara: Samurai Heroes,PS3,2010,Action,Capcom,61,37,7.9,29,Capcom,T
+G64,Far Cry 3,X360,2012,Shooter,Ubisoft,91,39,8.6,1247,Ubisoft Montreal,M
+G65,NCAA Basketball 09,PS3,2008,Sports,Electronic Arts,68,17,tbd,,EA Canada,E
+G66,F1 2015,PS4,2015,Racing,Codemasters,65,46,6.3,43,Codemasters,E
+G67,UFC Undisputed 2010,PSP,2010,Fighting,THQ,74,27,7,13,Yuke's,T
+G68,SSX Tricky,PS2,2001,Sports,Electronic Arts,92,33,8.9,71,EA Canada,E
+G69,Sunset Overdrive,XOne,2014,Shooter,Microsoft Game Studios,81,89,7.7,1137,Insomniac Games,M
+G70,MLB 14: The Show,PS4,2014,Sports,Sony Computer Entertainment America,83,17,7.7,205,SCEA San Diego Studios,E
+G71,Battlefield 2: Modern Combat,X360,2006,Shooter,Electronic Arts,77,54,7.3,79,Digital Illusions,T
+G72,Dynasty Warriors 4 Empires,PS2,2004,Action,Tecmo Koei,71,29,8.8,19,Omega Force,T
+G73,"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",GBA,N/A,Action,Disney Interactive Studios,66,7,6.8,5,Amaze Entertainment,E
+G74,Thor: God of Thunder,PS3,2011,Action,Sega,39,35,4.4,19,Liquid Entertainment,T
+G75,Lunar: Dragon Song,DS,2005,Role-Playing,Rising Star Games,59,30,6.2,17,"Game Arts, Japan Art Media (JAM)",E10+
+G76,Alice: Madness Returns,X360,2011,Adventure,Electronic Arts,70,67,8.1,157,Spicy Horse,M
+G77,Dark Void,PS3,2010,Action,Capcom,59,50,6,36,Airtight Games,T
+G78,Call of Juarez,X360,2007,Shooter,Ubisoft,71,37,6.9,46,Techland,M
+G79,NCAA Football 2003,XB,2002,Sports,Electronic Arts,90,14,8.2,15,EA Sports,E
+G80,Pro Evolution Soccer 2010,X360,2009,Sports,Konami Digital Entertainment,78,34,7.6,29,Konami,E
+G81,Harry Potter and the Deathly Hallows - Part 2,DS,2011,Action,Electronic Arts,55,5,tbd,,Full Fat,E10+
+G82,Lost Horizon,PC,2010,Adventure,Deep Silver,77,24,7.9,27,Animation Arts,T
+G83,Major League Baseball 2K6,PSP,N/A,Sports,Unknown,69,5,tbd,,Visual Concepts,E
+G84,Final Fantasy: Crystal Chronicles,GC,2003,Role-Playing,Nintendo,80,55,8.1,94,Square Enix,T
+G85,Resident Evil 5,PS3,2009,Action,Capcom,84,76,7.5,667,Capcom,M
+G86,The Last Story,Wii,2011,Role-Playing,Nintendo,80,61,8.4,179,"Mistwalker, Artoon",T
+G87,Tom Clancy's Splinter Cell,PS2,2003,Action,Ubisoft,89,24,7.7,102,Ubisoft Shanghai,T
+G88,SimAnimals,DS,2009,Simulation,Electronic Arts,70,10,7.5,4,Electronic Arts,E
+G89,Freedom Fighters,XB,2003,Shooter,Electronic Arts,82,23,8.2,23,Io Interactive,T
+G90,Kirby: Mass Attack,DS,2011,Platform,Nintendo,83,46,8.6,55,HAL Labs,E
+G91,Shaun White Snowboarding,PSP,2008,Sports,Ubisoft,70,5,7.5,4,Ubisoft,E10+
+G92,Super Dodgeball Brawlers,DS,2008,Sports,Arc System Works,65,12,tbd,,Million,E
+G93,Spider-Man 2,GBA,2004,Action,Activision,65,12,7.7,6,Digital Eclipse,E
+G94,3D Dot Game Heroes,PS3,2009,Role-Playing,SouthPeak Games,77,66,8,96,Silicon Studio,E10+
+G95,ESPN NHL 2K5,PS2,2004,Sports,Global Star,86,25,8.1,18,Kush Games,E
+G96,Namco Museum,PS2,2001,Misc,Namco Bandai Games,72,9,6,5,Mass Media,E
+G97,Singstar: Ultimate Party,PS4,2014,Misc,Sony Computer Entertainment Europe,47,19,4.1,18,SCEE,
+G98,Jaws Unleashed,PS2,2006,Action,THQ,52,29,7.5,39,Appaloosa Interactive,M
+G99,Crash Nitro Kart,XB,2003,Racing,Vivendi Games,70,14,8.9,16,Vicarious Visions,E
+G100,Call Of Duty 2: Big Red One,XB,2005,Shooter,Activision,78,46,5.1,27,Treyarch,T
+G101,Resident Evil: Dead Aim,PS2,2003,Action,Capcom,65,28,6.6,48,Cavia Inc.,M
+G102,Metroid Prime: Trilogy,Wii,2009,Shooter,Nintendo,91,48,9.3,316,Retro Studios,T
+G103,Need for Speed Underground 2,DS,2005,Racing,Electronic Arts,65,13,7,25,EA Canada,E
+G104,Castlevania: Circle of the Moon,GBA,2001,Platform,Konami Digital Entertainment,91,22,8.5,59,KCEK,T
+G105,Diablo III,X360,2013,Role-Playing,Activision,87,42,6.6,384,Blizzard Entertainment,M
+G106,DJ Hero,PS2,2009,Misc,Activision,87,4,6.4,5,FreeStyleGames,T
+G107,Major League Baseball 2K6,GC,2006,Sports,Take-Two Interactive,66,8,tbd,,Kush Games,E
+G108,Night at the Museum: Battle of the Smithsonian,X360,2009,Action,Majesco Entertainment,50,15,7.1,8,"Majesco Games, Majesco",E10+
+G109,Need for Speed: Porsche Unleashed,PS,1999,Racing,Electronic Arts,78,13,8.5,24,Eden Studios,E
+G110,Jeremy McGrath Supercross World,GC,2002,Racing,Acclaim Entertainment,36,14,5.6,5,Acclaim,E
+G111,Dynasty Warriors 8,X360,2013,Action,Tecmo Koei,65,21,7.5,35,Omega Force,T
+G112,Disgaea DS,DS,2008,Role-Playing,Square Enix,82,32,7.5,35,Nippon Ichi Software,T
+G113,Hatsune Miku: Project Diva F 2nd,PSV,2014,Misc,Sega,81,8,8.4,69,Sega,T
+G114,Sonic's Ultimate Genesis Collection,X360,2009,Misc,Sega,79,45,8.5,40,Backbone Entertainment,E10+
+G115,Project Spark,XOne,2014,Misc,Microsoft Game Studios,73,26,7,151,Microsoft Game Studios,E10+
+G116,Shrek: Hassle at the Castle,GBA,2002,Action,TDK Mediactive,71,7,7.4,5,TOSE,E
+G117,Mario Kart DS,DS,2005,Racing,Nintendo,91,64,8.6,464,Nintendo,E
+G118,Wii Sports Resort,Wii,2009,Sports,Nintendo,80,73,8,192,Nintendo,E
+G119,Atelier Shallie: Alchemists of the Dusk Sea,PS3,2014,Role-Playing,Tecmo Koei,76,26,7.7,44,Gust,E10+
+G120,WWE All Stars,PSP,2011,Fighting,THQ,70,4,6.6,5,THQ,T
+G121,SSX Tricky,GC,2001,Sports,Electronic Arts,87,20,8.6,18,EA Sports Big,E
+G122,Time Crisis 3,PS2,2003,Shooter,Namco Bandai Games,81,29,8.1,12,Namco,T
+G123,Just Dance 2015,PS4,2014,Misc,Ubisoft,72,8,5.8,32,Ubisoft,E10+
+G124,Skylanders: Trap Team,PS4,2014,Action,Activision,78,46,5.6,32,Toys for Bob,E10+
+G125,Army of Two: The 40th Day,PSP,2010,Shooter,Electronic Arts,49,11,6,32,"Buzz Monkey, EA Montreal",M
+G126,F1 2012,X360,2012,Racing,Codemasters,84,42,6.9,56,Codemasters,E
+G127,Mytran Wars,PSP,2009,Strategy,Deep Silver,68,16,8.8,4,Stormregion,T
+G128,Skylanders: Spyro's Adventure,Wii,2011,Action,Activision,81,11,5.6,31,Toys for Bob,E10+
+G129,Prince of Persia: The Forgotten Sands,PSP,2010,Action,Ubisoft,65,10,7.4,14,Ubisoft Quebec,T
+G130,Guitar Hero: Warriors of Rock,Wii,2010,Misc,Activision,77,26,7.5,17,"Vicarious Visions, Neversoft Entertainment",T
+G131,Monopoly,X360,2008,Misc,Electronic Arts,56,9,5.8,17,EA Bright Light,E
+G132,EA Sports Active,Wii,2009,Sports,Electronic Arts,81,27,8.7,39,EA Canada,E
+G133,Disney's Magical Mirror Starring Mickey Mouse,GC,2002,Adventure,Nintendo,50,9,8.9,10,Capcom,E
+G134,Dead or Alive,PS,1998,Fighting,Sony Computer Entertainment,84,10,8.6,18,Team Ninja,T
+G135,Castlevania: Portrait of Ruin,DS,2006,Platform,Konami Digital Entertainment,85,51,8.3,87,Konami,T
+G136,NBA Street Vol. 2,GC,N/A,Sports,Electronic Arts,88,16,8.1,7,Electronic Arts,E
+G137,Asura's Wrath,X360,2012,Action,Capcom,71,54,6.5,131,CyberConnect2,T
+G138,Total War: Shogun 2,PC,2011,Strategy,Sega,90,62,8.3,1180,Creative Assembly,T
+G139,Gundam Battle Assault,PS,1998,Fighting,Namco Bandai Games,61,4,7.8,4,Natsume,T
+G140,Angry Birds Star Wars,PS4,2013,Strategy,Activision,47,5,2,87,Exient Entertainment,E
+G141,Ys Seven,PSP,2009,Role-Playing,Falcom Corporation,79,27,8.5,65,Falcom,T
+G142,Vietcong: Purple Haze,PS2,2004,Shooter,Gathering of Developers,48,11,4.3,6,Coyote Developments,M
+G143,NFL Head Coach 09,PS3,2008,Sports,Electronic Arts,64,12,7.1,12,EA Tiburon,E
+G144,Tom Clancy's Ghost Recon: Island Thunder,XB,2003,Shooter,Ubisoft,81,33,8.8,17,Red Storm Entertainment,M
+G145,Game Party: Champions,WiiU,2012,Action,Warner Bros. Interactive Entertainment,24,8,3.5,21,"Phosphor Games Studio, LLC",E
+G146,Rugby World Cup 2011,X360,2011,Sports,505 Games,55,14,3.9,13,HB Studios Multimedia,E
+G147,Spectrobes: Origins,Wii,2009,Role-Playing,Disney Interactive Studios,71,22,8.4,16,Genki,E10+
+G148,Shin Megami Tensei: Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon,PS2,2008,Role-Playing,Atlus,79,23,8.7,26,Atlus Co.,M
+G149,Dungeon Siege: Throne of Agony,PSP,2006,Role-Playing,Take-Two Interactive,74,32,8.1,21,SuperVillain Studios,T
+G150,Brain Challenge,DS,2008,Misc,Ubisoft,68,7,7,4,Ubisoft,E
+G151,The Ant Bully,GC,2006,Platform,Midway Games,51,8,tbd,,Artificial Mind and Movement,E10+
+G152,Call of Duty: Black Ops,X360,2010,Shooter,Activision,87,89,6.3,1454,Treyarch,M
+G153,Grand Theft Auto V,PS4,2014,Action,Take-Two Interactive,97,66,8.3,2899,Rockstar North,M
+G154,EA Sports Active 2,Wii,2010,Sports,Electronic Arts,79,8,8.1,22,EA Canada,E
+G155,Van Helsing,XB,2007,Action,Activision,63,32,7.6,8,Saffire,T
+G156,Tiger Woods PGA Tour 13,PS3,2012,Sports,Electronic Arts,75,14,5.7,9,Electronic Arts,E
+G157,Sleeping Dogs,X360,2012,Action,Square Enix ,80,47,7.9,468,United Front Games,M
+G158,Guitar Hero III: Legends of Rock,PS2,2007,Misc,Activision,82,24,8.2,46,"Neversoft Entertainment, BudCat",T
+G159,Primal,PS2,2003,Action,Sony Computer Entertainment,73,36,8.6,53,SCEE,M
+G160,Shrek,XB,2001,Platform,TDK Mediactive,49,19,5.4,9,Digital Illusions,T
+G161,F1 Race Stars,X360,2012,Racing,Codemasters,64,33,5.7,22,Codemasters,E
+G162,Crazy Taxi: Fare Wars,PSP,2007,Racing,Sega,64,25,7.1,18,Sega,E10+
+G163,Dragon Ball Z: Budokai Tenkaichi 2,Wii,2006,Fighting,Atari,72,37,8.5,40,Spike,T
+G164,Tony Hawk's Proving Ground,X360,2007,Sports,Activision,72,59,5.4,44,Neversoft Entertainment,T
+G165,Drawn to Life,DS,2007,Action,THQ,73,34,8.2,30,5TH Cell,E
+G166,The Legend of Zelda: Skyward Sword,Wii,2011,Action,Nintendo,93,81,8,1958,Nintendo,E10+
+G167,Travel Games For Dummies,DS,2008,Misc,Electronic Arts,62,5,tbd,,Electronic Arts,E
+G168,Bee Movie Game,X360,2007,Action,Activision,71,25,5.8,13,Beenox,E
+G169,Madden NFL 08,PSP,2007,Sports,Electronic Arts,75,10,6.8,8,EA Tiburon,E
+G170,Sonic Lost World,WiiU,2013,Platform,Sega,63,64,7.3,461,Sonic Team,E10+
+G171,Resident Evil: Survivor,PS,2000,Action,Eidos Interactive,39,10,7,47,Capcom,M
+G172,NBA 2K13,X360,2012,Sports,Take-Two Interactive,88,41,7.2,131,Visual Concepts,E
+G173,Fight Night Round 2,PS2,2005,Fighting,Electronic Arts,88,37,9,37,EA Sports,T
+G174,The Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron,GBA,2002,Action,THQ,55,5,tbd,,Human Soft,E
+G175,Fish Tycoon,DS,2007,Simulation,Majesco Entertainment,46,9,7,6,"LDW, Big Fish Games",E
+G176,Final Fantasy Chronicles,PS,2001,Role-Playing,Square,89,15,9.1,37,TOSE,T
+G177,Tamagotchi Connection: Corner Shop,DS,2005,Simulation,Atari,59,20,7.7,6,NanaOn-Sha,E
+G178,The Lord of the Rings: Aragorn's Quest,PS3,2010,Action,Warner Bros. Interactive Entertainment,58,12,6,8,TT Fusion,T
+G179,Dragon Age: Inquisition,XOne,2014,Role-Playing,Electronic Arts,85,28,6.9,703,BioWare,M
+G180,Hasbro Family Game Night,DS,2009,Puzzle,Electronic Arts,57,6,tbd,,Electronic Arts,E
+G181,MX Unleashed,XB,2004,Racing,THQ,81,18,9.3,12,Rainbow Studios,E
+G182,Naruto Shippuden: Ultimate Ninja Impact,PSP,2011,Fighting,Namco Bandai Games,59,16,7.2,26,Racjin,T
+G183,Battlefield 3,X360,2011,Shooter,Electronic Arts,84,57,7.4,2142,EA DICE,M
+G184,MLB SlugFest 20-03,XB,2002,Sports,Midway Games,79,9,7.8,5,Gratuitous Games,E
+G185,Frogger Beyond,GC,2002,Platform,Konami Digital Entertainment,60,6,7.2,5,Konami,E
+G186,Parasite Eve,PS,1998,Role-Playing,SquareSoft,81,17,8.9,89,SquareSoft,M
+G187,FIFA 17,PS4,2016,Sports,Electronic Arts,85,41,5,398,"EA Sports, EA Vancouver",E
+G188,My Street,PS2,2003,Misc,Sony Computer Entertainment,46,21,3.9,14,Idol Minds,E
+G189,Prince of Persia: The Sands of Time,PS2,2003,Action,Ubisoft,92,44,8.8,204,Ubisoft,T
+G190,Madden NFL 2003,PS2,2002,Sports,Electronic Arts,95,25,7.7,65,EA Sports,E
+G191,Machinarium,PC,2009,Adventure,Daedalic,85,47,8.8,526,Amanita Design,
+G192,MotoGP 09/10,X360,2010,Racing,Capcom,69,41,5.7,41,Monumental Games,E
+G193,Spawn: Armageddon,PS2,2003,Action,Electronic Arts,56,33,7.4,21,Point of View,M
+G194,Hulk,PS2,2003,Action,Universal Interactive,71,28,8.3,22,Radical Entertainment,T
+G195,Midway Arcade Treasures,GC,2003,Misc,Midway Games,72,11,8.2,5,Midway,T
+G196,Chaos Legion,PS2,2003,Action,Capcom,65,34,8.2,58,Capcom,T
+G197,Monopoly,Wii,2008,Misc,Electronic Arts,70,11,7.8,17,Electronic Arts,E
+G198,Medal of Honor: Rising Sun,GC,2003,Shooter,Electronic Arts,68,24,6.4,13,EA LA,T
+G199,Yakuza 4,PS3,N/A,Action,Sega,78,59,8,177,Ryu ga Gotoku Studios,M
+G200,FIFA Street,PS3,2012,Sports,Electronic Arts,76,36,6.4,66,EA Sports,E
